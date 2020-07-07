@@ -14,7 +14,7 @@ $("#submitButton").on("click", function () {
   let textArray = lower.split("");
   let alpha = "abcdefghijklmnopqrstuvwxyz";
   let nato = [
-    "Alfa",
+    "Alpha",
     "Bravo",
     "Charlie",
     "Delta",
