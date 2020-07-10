@@ -1,4 +1,4 @@
-# Phonetic-Converter
+# Nato Phonetic-Converter
 As an IT support agent, sometimes it is required to use NATO Phonetic Alphabets while on a call. 
 Especially when describing names, passwords, recovery keys etc.
 
