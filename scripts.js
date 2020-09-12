@@ -6,7 +6,8 @@ $("#clearButton").click(function () {
   $("#textInput").val("");
 });
 
-$("#submitButton").on("click", function () {
+$(".submitForm").on("submit", function (e) {
+  e.preventDefault()
   $(".resultSection").empty();
   let textInput = $("#textInput").val();
   let lower = textInput.toLowerCase();
