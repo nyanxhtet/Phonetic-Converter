@@ -6,7 +6,7 @@ $("#clearButton").click(function () {
   $("#textInput").val("");
 });
 
-$(".submitForm").on("submit", function (e) {
+$("#submitForm").on("submit", function (e) {
   e.preventDefault()
   $(".resultSection").empty();
   let textInput = $("#textInput").val();
