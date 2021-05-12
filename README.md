@@ -1,10 +1,27 @@
 # Nato Phonetic Alphabet Converter
-As an IT support agent, sometimes it is required to use NATO Phonetic Alphabets while on a call. 
-Especially when describing names, passwords, recovery keys etc.
 
-This simple application takes a set of word/phrase and converts it to Nato Alphabet. 
+![Nato Converter Logo](static/logo1.jpg)
 
-EX: "Covid" will output: Charlie, Oscar, Victor, India, Delta
+This simple application takes a set of words/phrase and converts it to the Nato Alphabet.
 
-Please feel free to contact me if you have any suggestions for further improvement!
+## Background 
+- As an IT support agent, sometimes it is required to use NATO Phonetic Alphabets while on a call. Especially when describing names, passwords, recovery keys etc.
 
+ 
+## Info
+
+Enter a phrase/word you need to convert and press enter or submit. 
+
+"Covid" will output: Charlie, Oscar, Victor, India, Delta
+
+![Nato Converter Logo](static/logo2.jpg)
+
+Click on each converted word to remove it as you go!
+
+![Nato Converter Logo](static/logo3.jpg)
+
+#### Check it out live!
+[Nato Converter](https://nyancodes.github.io/Nato-Converter/) on Github Pages
+
+
+#
