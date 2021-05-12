@@ -1,6 +1,6 @@
 # Nato Phonetic Alphabet Converter
 
-![Nato Converter Logo](static/logo1.jpg)
+![Nato Converter Logo](static/logo1.png)
 
 This simple application takes a set of words/phrase and converts it to the Nato Alphabet.
 
@@ -14,11 +14,11 @@ Enter a phrase/word you need to convert and press enter or submit.
 
 "Covid" will output: Charlie, Oscar, Victor, India, Delta
 
-![Nato Converter Logo](static/logo2.jpg)
+![Nato Converter Logo](static/logo2.png)
 
 Click on each converted word to remove it as you go!
 
-![Nato Converter Logo](static/logo3.jpg)
+![Nato Converter Logo](static/logo3.png)
 
 #### Check it out live!
 [Nato Converter](https://nyancodes.github.io/Nato-Converter/) on Github Pages
