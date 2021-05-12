@@ -1,7 +1,5 @@
 # Nato Phonetic Alphabet Converter
 
-![Nato Converter Logo](static/logo1.png)
-
 This simple application takes a set of words/phrase and converts it to the Nato Alphabet.
 
 ## Background 
@@ -20,7 +18,7 @@ Click on each converted word to remove it as you go!
 
 ![Nato Converter Logo](static/logo3.png)
 
-#### Check it out live!
+## Check it out live!
 [Nato Converter](https://nyancodes.github.io/Nato-Converter/) on Github Pages
 
 
