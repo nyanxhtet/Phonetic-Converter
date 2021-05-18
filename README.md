@@ -1,7 +1,7 @@
 # Nato Phonetic Alphabet Converter
 
 This simple application takes a set of words/phrase and converts it to the Nato Alphabet.
-I developed this for the global Salesforce IT team (Techforce0 through the Techforce Innovation Program.
+I developed this for the global Salesforce IT team. (through the Techforce Innovation Program)
 
 ## Background 
 - As an IT support agent, sometimes it is required to use NATO Phonetic Alphabets while on a call. Especially when describing names, passwords, recovery keys etc.
